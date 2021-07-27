@@ -11,9 +11,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="03b3bdbf-3d38-4b72-90ea-3a42d9117a22" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ar/template/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/ar/template/footer.php" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/en/template/footer.php" beforeDir="false" afterPath="$PROJECT_DIR$/en/template/footer.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/watson/speech.cfg.example" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/en/watson/transcribe.py" beforeDir="false" afterPath="$PROJECT_DIR$/en/watson/transcribe.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -24,7 +25,7 @@
     <execution />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/en/watson" />
   </component>
   <component name="ProjectId" id="1tydaQ0PQj7mufPmyEQmzwwY54G" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -70,7 +71,8 @@
       <workItem from="1624293796636" duration="25402000" />
       <workItem from="1625070741210" duration="3726000" />
       <workItem from="1625333527925" duration="886000" />
-      <workItem from="1625736540890" duration="1320000" />
+      <workItem from="1625736540890" duration="1920000" />
+      <workItem from="1627411523457" duration="1124000" />
     </task>
     <servers />
   </component>
